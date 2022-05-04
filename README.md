@@ -35,7 +35,7 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/Vivekvachhani"><img alt="vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekvachhani&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Vivekvachhani"><img alt="vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekvachhani&custom_title=vivek's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
